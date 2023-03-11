@@ -21,7 +21,9 @@ Console dates dataset has the following columns:
 * First Retail Availability- The date on which the platform was first made available for purchase or use
 * Discontinued- Whether the platform has been discontinued or not
 * Units Sold in Millions- The total number of units of the platform sold in millions
-* Comment- Additional comments or notes on the platform, such as its features, history, or impact on the industry 
+* Comment- Additional comments or notes on the platform, such as its features, history, or impact on the industry
+![VG Image](https://user-images.githubusercontent.com/100838547/224484726-81e58d66-f0eb-49a4-a8af-2c16f6d4932c.png)
+
 
 
 PostgreSQL database was used for analysis video game sales with the following questions:
