@@ -31,6 +31,7 @@ PostgreSQL database was used for analysis video game sales with the following qu
 * Extract the view of the console game titles ordered by platform name in ascending order and year of release in descending order
 * For each game title extract the first four letters of the publisher's name 
 * Display the console platforrm which were released either just before black friday or just before christmas (in any year)
+
  
 For the visualization of sales of video game from 1980-2015, you can track the total or single game or platform sales and many other possibilities.
 ![VG 1](https://user-images.githubusercontent.com/100838547/221829619-0b1eec77-d77f-4cbc-968f-71b2a4f289b9.png)
@@ -44,3 +45,9 @@ For the visualization of sales of video game from 1980-2015, you can track the t
 * The Year 2008 has the best selling field  of video game with over 678m, followed by Year 2009 with about $667m.
 * The 2 most popular consoles (PS2 and X360) made their highest sales in year 2004 and 2010 with over $209bn and $170bn respectively.
 * Majority of the games were purchased in North America with PS2 taking the lead.
+
+## CONCLUSION
+
+* It is important to study the present and past situations before going into the video game industry. Since the present scenario shows that 'Action' genre is the most predominant genre all over the world today.
+* For platforms, the Play Station and XBOX consoles are the most popular platforms for publishing games, so if a publisher makes the game on other platforms they might not make as most sales as that of Play Station and Xbox.
+
