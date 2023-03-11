@@ -32,3 +32,13 @@ PostgreSQL database was used for analysis video game sales with the following qu
  
 For the visualization of sales of video game from 1980-2015, you can track the total or single game or platform sales and many other possibilities.
 ![VG 1](https://user-images.githubusercontent.com/100838547/221829619-0b1eec77-d77f-4cbc-968f-71b2a4f289b9.png)
+
+
+## Outcomes
+* The total sales of video games from 1980-2015 is $8.74bn and North America is the region with the highest sales of 49.32%.
+* The top selling publishers (the company that published or distribute the game) are Nintendo, Electronic Arts and Activision.
+* The top selling platforms (the console on which the game was released) are PS2, X360 and PS3.
+* The top selling genre (category of the game) are Action, Sports and Shooter games respectively.
+* The Year 2008 has the best selling field  of video game with over 678m, followed by Year 2009 with about $667m.
+* The 2 most popular consoles (PS2 and X360) made their highest sales in year 2004 and 2010 with over $209bn and $170bn respectively.
+* Majority of the games were purchased in North America with PS2 taking the lead.
