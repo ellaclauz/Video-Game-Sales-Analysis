@@ -49,5 +49,5 @@ For the visualization of sales of video game from 1980-2015, you can track the t
 ## CONCLUSION
 
 * It is important to study the present and past situations before going into the video game industry. Since the present scenario shows that 'Action' genre is the most predominant genre all over the world today.
-* For platforms, the Play Station and XBOX consoles are the most popular platforms for publishing games, so if a publisher makes the game on other platforms they might not make as most sales as that of Play Station and Xbox.
+* For platforms, the Play Station and XBOX consoles are the most popular platforms for publishing games, so if a publisher makes the game on other platforms they might not make as much sales as that of Play Station and Xbox.
 
